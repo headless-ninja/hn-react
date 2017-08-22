@@ -29,7 +29,7 @@
     ]
   },
   "peerDependencies": {
-    "hn": "^0.2.0",
+    "hn": "^0.3.1",
     "react": "^15.6.1"
   },
   "devDependencies": {
