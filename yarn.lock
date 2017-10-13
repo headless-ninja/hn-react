@@ -2349,9 +2349,9 @@ hmac-drbg@^1.0.0:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.1"
 
-hn@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/hn/-/hn-0.4.0.tgz#a37a0c7ec864f4a66e881a2198130270cf632296"
+hn@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/hn/-/hn-0.5.0.tgz#f26890bf2cbfd097d07d0038745df2956b9c6780"
   dependencies:
     deepmerge "^1.5.0"
     es6-promise "^4.1.1"
@@ -2359,6 +2359,7 @@ hn@^0.4.0:
     get-nested "^4.0.0"
     isomorphic-fetch "^2.2.1"
     query-string "^5.0.0"
+    rimraf "^2.6.2"
     universal-fetch "^1.0.0"
 
 hoek@2.x.x:
